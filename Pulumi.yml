@@ -1,0 +1,3 @@
+name: unifi
+runtime: nodejs
+description: Minimal Unifi stack
